@@ -1,0 +1,4 @@
+chromadb>=0.5
+rank-bm25>=0.2.2
+groq>=0.9
+pypdf>=4.0

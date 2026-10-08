@@ -1,0 +1,16 @@
+[
+  {"question": "How many classes can I miss before I'm barred from the exam?", "source": "attendance_policy.md"},
+  {"question": "What is the minimum attendance percentage required?", "source": "attendance_policy.md"},
+  {"question": "Can I get a medical exemption from attendance rules?", "source": "attendance_policy.md"},
+  {"question": "What is the passing mark in a theory paper?", "source": "examination_rules.md"},
+  {"question": "Am I allowed to bring a calculator to the exam hall?", "source": "examination_rules.md"},
+  {"question": "How do I apply for re-evaluation of my answer script?", "source": "examination_rules.md"},
+  {"question": "What happens if I am caught copying during an exam?", "source": "examination_rules.md"},
+  {"question": "When do hostel rooms get allotted?", "source": "hostel_guidelines.md"},
+  {"question": "What is the curfew time for the hostel?", "source": "hostel_guidelines.md"},
+  {"question": "Can visitors stay overnight in the hostel?", "source": "hostel_guidelines.md"},
+  {"question": "How much is the hostel security deposit?", "source": "hostel_guidelines.md"},
+  {"question": "Who do I contact for a late fee waiver?", "source": "fee_policy.md"},
+  {"question": "What is the deadline to pay semester fees?", "source": "fee_policy.md"},
+  {"question": "Is there a scholarship for high CGPA students?", "source": "fee_policy.md"}
+]
